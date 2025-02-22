@@ -1,0 +1,3 @@
+[submodule "Magstripe/ABA Track II/Paxton"]
+	path = Magstripe/ABA Track II/Paxton
+	url = https://github.com/en4rab/sigrok-paxton-pd
