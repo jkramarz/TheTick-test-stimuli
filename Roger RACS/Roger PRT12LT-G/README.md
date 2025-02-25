@@ -11,3 +11,15 @@ EM4100, ID: 0x0001DA9833
 Trace 2:
 
 EM4100, ID: 0x5100E61B9C
+
+Trace 3:
+
+EM4100, ID: 0x0000000000
+
+Trace 4:
+
+EM4100, ID: 0xFFFFFFFFFF
+
+Trace 5:
+
+EM4100, "Default Values" RFID Fuzzer pattern
